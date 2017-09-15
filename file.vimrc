@@ -1,0 +1,9 @@
+syntax on
+set number
+set mouse=a
+set cc=81
+set cindent
+set autoindent
+set smartindent
+set tabstop=4
+set shiftwidth=4
