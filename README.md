@@ -6,4 +6,7 @@ Some settings for vim environment
 - auto indent for other tool and languages like HTML, CSS, Javascript and Shell
 - set screen bounds
 
+config along link: https://www.youtube.com/watch?v=n9k9scbTuvQ
+
 ---- enjoy ----
+
